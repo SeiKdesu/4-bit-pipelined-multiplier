@@ -12,6 +12,7 @@ module mul(clk, rst, ld, a, b, ra, rb, ry);
 	reg [3:0] rb;    /* 乗数レジスタ */
 	reg [7:0] ry;    /* 積レジスタ */
 	
+	
 	/* 以下を記述 */
 	always@(posedge clk or negedge rst) begin
 		if(rst==1'b0) begin
