@@ -38,7 +38,7 @@ module multiplier (
 );
 // Your Verilog code here
 endmodule
-
+```
 # how to Run
 git clone https://github.com/yourusername/4bit_multiplier.git
 cd 4bit_multiplier
