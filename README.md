@@ -40,8 +40,10 @@ module multiplier (
 endmodule
 ```
 # how to Run
+```
 git clone https://github.com/yourusername/4bit_multiplier.git
 cd 4bit_multiplier
+```
 
 we use quontas and FPGA.
 
